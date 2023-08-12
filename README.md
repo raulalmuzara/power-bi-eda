@@ -1,2 +1,2 @@
-# power-bi-eda
-Exploratory data analysis of three datasets in Power BI.
+# Testing Power BI features to create interactive reports
+Exploratory data analysis of three datasets (bank-customers.csv, restaurant-customers.csv and online-retail.xlsx) in Power BI. The .pbix file is the interactive report. It has two pages dedicated to each dataset. We test a variety of data filtering and representation techniques (charts, trees, maps, cards and slicers). The visuals are interconnected and they cross-filter each other. We can interact with them and see how they change based on the selection of specific data. In this way, we can extract information about particular groups of instances and identify valuable patterns or correlations. A static .pdf is also provided as a preview.
